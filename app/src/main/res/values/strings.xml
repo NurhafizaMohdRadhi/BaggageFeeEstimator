@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Title -->
+    <string name="app_name">Baggage Fee Estimator</string>
+
+    <!-- Menu Items -->
+    <string name="share">Share</string>
+    <string name="about">About</string>
+
+    <!-- Dropdown Options Array for Spinner -->
+    <string-array name="ticket_classes">
+        <item>Economy (20 kg)</item>
+        <item>Business (40 kg)</item>
+    </string-array>
+
+    <!-- Main Screen Text -->
+    <string name="flight_baggage_estimator">✈️ Flight Baggage Estimator</string>
+    <string name="calculate_excess_weight_and_total_charges_effortlessly">Calculate excess weight and total charges effortlessly</string>
+    <string name="flight_details">Flight Details</string>
+    <string name="baggage_weight_kg">Baggage Weight (kg)</string>
+    <string name="ticket_class">Ticket Class</string>
+    <string name="excess_rates_per_kg_rm">Excess Rate per kg (RM)</string>
+
+    <!-- Buttons -->
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+    <!-- Breakdown Outputs -->
+    <string name="calculation_breakdown">Calculation Breakdown</string>
+    <string name="excess_weight">Excess Weight:</string>
+    <string name="_0_00_kg">0.00 kg</string>
+    <string name="subtotal_charge">Subtotal Charge:</string>
+    <string name="rm_0_00">RM 0.00</string>
+    <string name="total_payable_incl_8_tax">Total Payable (incl. 8% tax):</string>
+    <string name="rm_0">RM 0</string>
+
+    <!-- About Screen Text -->
+    <string name="about_application">About Application</string>
+    <string name="developer_details">Developer Details</string>
+    <string name="developer_info">Name: NURHAFIZA BINTI MOHD RADHI\nStudent ID: 2024208788\nGroup: RCDCS2515A\nProgramme Code: CS251</string>
+    <string name="application_website">Application Website:</string>
+    <string name="github_url">https://github.com/nurhafiza/BaggageFeeEstimator</string>
+    <string name="copyright_notice">© 2026 ICT602 Mobile Technology. All Rights Reserved.</string>
+    <string name="Cost_Breakdown">Cost Breakdown</string>
+</resources>

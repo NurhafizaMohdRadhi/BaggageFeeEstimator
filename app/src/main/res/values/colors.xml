@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#1E293B</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Theme Compatibility -->
+    <color name="primary_blue">#4F709C</color>
+    <color name="primary_dark">#213555</color>
+    <color name="accent_color">#D8C4B6</color>
+    <color name="bg_light">#F1F5F9</color>
+
+    <!-- Unified Slate-Blue Pastel Palette -->
+    <color name="pastel_screen_bg">#F1F5F9</color>     <!-- Soft Cool Slate Tint -->
+    <color name="pastel_header_bg">#4F709C</color>     <!-- Pastel Slate Blue Header -->
+    <color name="pastel_card_bg">#FFFFFF</color>       <!-- Clean Unified White Cards -->
+
+    <!-- Text Typography -->
+    <color name="pastel_title_dark">#1E293B</color>    <!-- Deep Slate Text -->
+    <color name="pastel_header_title">#1E293B</color>
+    <color name="pastel_header_sub">#64748B</color>    <!-- Muted Subtext -->
+    <color name="pastel_sub_text">#64748B</color>
+    <color name="pastel_primary_dark">#2563EB</color>  <!-- Link Blue -->
+
+    <!-- Interactive Buttons -->
+    <color name="pastel_calc_btn">#4F709C</color>      <!-- Slate Blue Main Button -->
+    <color name="pastel_reset_btn">#E11D48</color>     <!-- Muted Crimson -->
+    <color name="pastel_btn_border">#CBD5E1</color>    <!-- Soft Border Tint -->
+</resources>
