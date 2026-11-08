@@ -39,7 +39,7 @@
     <string name="developer_details">Developer Details</string>
     <string name="developer_info">Name: NURHAFIZA BINTI MOHD RADHI\nStudent ID: 2024208788\nGroup: RCDCS2515A\nProgramme Code: CS251</string>
     <string name="application_website">Application Website:</string>
-    <string name="github_url">https://github.com/nurhafiza/BaggageFeeEstimator</string>
+    <string name="github_url">https://github.com/NurhafizaMohdRadhi/BaggageFeeEstimator.git</string>
     <string name="copyright_notice">© 2026 ICT602 Mobile Technology. All Rights Reserved.</string>
     <string name="Cost_Breakdown">Cost Breakdown</string>
 </resources>

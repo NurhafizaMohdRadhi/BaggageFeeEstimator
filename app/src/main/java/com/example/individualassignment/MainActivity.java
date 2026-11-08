@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvExcessWeight, tvExcessCharge, tvTotalPayable;
     private Button btnCalculate, btnClear, btnAbout;
 
-    private static final String GITHUB_REPO_URL = "https://github.com/nurhafiza/BaggageFeeEstimator";
+    private static final String GITHUB_REPO_URL = "https://github.com/NurhafizaMohdRadhi/BaggageFeeEstimator.git";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
